@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\bin\Debug\net10.0\A1_Q2Soln.exe
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\bin\Debug\net10.0\A1_Q2Soln.deps.json
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\bin\Debug\net10.0\A1_Q2Soln.runtimeconfig.json
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\bin\Debug\net10.0\A1_Q2Soln.dll
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\bin\Debug\net10.0\A1_Q2Soln.pdb
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\obj\Debug\net10.0\A1_Q2Soln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\obj\Debug\net10.0\A1_Q2Soln.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\obj\Debug\net10.0\A1_Q2Soln.AssemblyInfo.cs
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\obj\Debug\net10.0\A1_Q2Soln.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\obj\Debug\net10.0\A1_Q2Soln.dll
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\obj\Debug\net10.0\refint\A1_Q2Soln.dll
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\obj\Debug\net10.0\A1_Q2Soln.pdb
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\obj\Debug\net10.0\A1_Q2Soln.genruntimeconfig.cache
+C:\Users\admin\Desktop\My_DotNet\Assignment_1\A1_Q2Soln\obj\Debug\net10.0\ref\A1_Q2Soln.dll
